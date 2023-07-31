@@ -1,0 +1,21 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "entry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.6",
+    "@babel/parser": "^7.22.6",
+    "@babel/preset-env": "^7.22.6",
+    "@babel/traverse": "^7.22.6"
+  },
+  "dependencies": {
+    "vue-loader": "^17.2.2"
+  }
+}
